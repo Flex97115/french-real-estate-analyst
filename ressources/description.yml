@@ -1,0 +1,6 @@
+models:
+  - name: "french_real_estate"
+    description: "This is a dataset of real estate in France"
+    columns:
+      - name: "Column1"
+        description: "Last run of the ETL"
