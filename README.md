@@ -47,7 +47,7 @@ Then there is two agent created with crewAI library :
 # Examples
 
 ## Question
-**Quel sont les 5 dernières ventes réalisées avenue de lombez à Toulouse ?**
+**Quelles sont les 5 dernières ventes réalisées avenue de lombez à Toulouse ?**
 
 ### CSV inspector response
 
